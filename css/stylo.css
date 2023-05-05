@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.menu{
+  width: 90%;
+  margin: 0 auto;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header nav div img{
+  
+  width: 100px;
+  height: 100px;
+ 
+ }
+
+ div ul li{
+
+  display: inline;
+  align-items: center;
+  justify-content: space-between;
+
+  margin: 3px;
+  padding: 10px;
+ }
+ div ul li a{
+  text-decoration: none;
+  cursor: pointer;
+ }
+div ul li a:hover{
+  color:orange;
+  font-size: 18px;
+}
+
