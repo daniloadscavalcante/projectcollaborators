@@ -7,13 +7,10 @@
 }
 
 
-
-
 .menu{
   width: 90%;
   margin: 0 auto;
  
-
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -24,10 +21,6 @@ header nav div img{
   height: 100px;
  
  }
-/* header nav div img:hover{
-  width: 150px;
-  height: 150px;
- } */
 
  div ul li{
   /* border: 2px solid green; */
