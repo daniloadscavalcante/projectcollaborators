@@ -39,4 +39,32 @@ div ul li a:hover{
   color:orange;
   font-size: 18px;
 }
-
+h1{
+  text-align: center;
+  margin: 40px 0;
+}
+.container{
+  
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container-card{
+  width: 24%;  
+  min-height: 200px;
+  border-radius: 10px;
+  border-bottom: 2px solid #FF4A5D;
+}
+.container-card img{
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.card-texto{
+  padding: 10px;
+}
+.card-texto p{
+  font-size: 13px;
+  margin-top: 10px;
+}
